@@ -1,4 +1,4 @@
 <h1> Mi primer repositorio publico </h1>
 no se que poner 
 aaaaaaa
-<h2> kanye west</h2>
+<h2> kanye nigga west</h2>
